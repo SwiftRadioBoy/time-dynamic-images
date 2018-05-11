@@ -3,8 +3,7 @@ Contributors: SwiftRadioBoy
 Tags: image, rotating, time, dynamic
 Requires at least: 1.0
 Tested up to: 4.9.5
-License: CDDL-1.0
-License URI: https://opensource.org/licenses/CDDL-1.0
+
 
 I developed this plugin for your use. It's not very simple and takes a little knowledge of PHP code. I couldn't find a plugin that allowed for the same image to be rotated on a daily basis based on times.
 
